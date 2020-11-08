@@ -1,0 +1,435 @@
+[
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.15271,
+        "Longitud": -101.006927,
+        "Horizontal_Accuracy": 37,
+        "Fecha": 1601256604,
+        "Measures": [
+            {
+                "Fecha": 1601251278,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 27.14,
+                        "pi": 28.3
+                    },
+                    "voc": {
+                        "value": 160,
+                        "pi": 12.8
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            },
+            {
+                "Fecha": 1601256619,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 13.74,
+                        "pi": 27.48
+                    },
+                    "pm1": {
+                        "value": 10.16,
+                        "pi": 25.39
+                    },
+                    "no2": {
+                        "value": 39.25,
+                        "pi": 45.39
+                    },
+                    "voc": {
+                        "value": 169,
+                        "pi": 13.52
+                    },
+                    "pm10": {
+                        "value": 14.74,
+                        "pi": 14.74
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152577,
+        "Longitud": -101.006941,
+        "Horizontal_Accuracy": 16,
+        "Fecha": 1601259225,
+        "Measures": [
+            {
+                "Fecha": 1601259199,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 41.88,
+                        "pi": 49.1
+                    },
+                    "voc": {
+                        "value": 161,
+                        "pi": 12.88
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152567,
+        "Longitud": -101.006924,
+        "Horizontal_Accuracy": 19,
+        "Fecha": 1601259526,
+        "Measures": [
+            {
+                "Fecha": 1601259499,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 42.77,
+                        "pi": 50.2
+                    },
+                    "voc": {
+                        "value": 163,
+                        "pi": 13.04
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152567,
+        "Longitud": -101.006924,
+        "Horizontal_Accuracy": 19,
+        "Fecha": 1601259854,
+        "Measures": [
+            {
+                "Fecha": 1601259859,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 42.77,
+                        "pi": 50.2
+                    },
+                    "voc": {
+                        "value": 159,
+                        "pi": 12.72
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152567,
+        "Longitud": -101.006924,
+        "Horizontal_Accuracy": 19,
+        "Fecha": 1601260175,
+        "Measures": [
+            {
+                "Fecha": 1601260159,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2.97,
+                        "pi": 5.93
+                    },
+                    "pm1": {
+                        "value": 1.97,
+                        "pi": 4.92
+                    },
+                    "no2": {
+                        "value": 43.64,
+                        "pi": 50.88
+                    },
+                    "voc": {
+                        "value": 162,
+                        "pi": 12.96
+                    },
+                    "pm10": {
+                        "value": 3.97,
+                        "pi": 3.97
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152567,
+        "Longitud": -101.006924,
+        "Horizontal_Accuracy": 19,
+        "Fecha": 1601260476,
+        "Measures": [
+            {
+                "Fecha": 1601260459,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2.15,
+                        "pi": 4.29
+                    },
+                    "pm1": {
+                        "value": 1.15,
+                        "pi": 2.86
+                    },
+                    "no2": {
+                        "value": 42.74,
+                        "pi": 50.18
+                    },
+                    "voc": {
+                        "value": 166,
+                        "pi": 13.28
+                    },
+                    "pm10": {
+                        "value": 3.15,
+                        "pi": 3.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152567,
+        "Longitud": -101.006924,
+        "Horizontal_Accuracy": 19,
+        "Fecha": 1601260813,
+        "Measures": [
+            {
+                "Fecha": 1601260819,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 42.77,
+                        "pi": 50.2
+                    },
+                    "voc": {
+                        "value": 163,
+                        "pi": 13.04
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152595,
+        "Longitud": -101.006941,
+        "Horizontal_Accuracy": 16,
+        "Fecha": 1601261156,
+        "Measures": [
+            {
+                "Fecha": 1601261179,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 41.9,
+                        "pi": 49.14
+                    },
+                    "voc": {
+                        "value": 166,
+                        "pi": 13.28
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152528,
+        "Longitud": -101.007018,
+        "Horizontal_Accuracy": 15,
+        "Fecha": 1601261461,
+        "Measures": [
+            {
+                "Fecha": 1601261478,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 41.9,
+                        "pi": 49.14
+                    },
+                    "voc": {
+                        "value": 168,
+                        "pi": 13.44
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152569,
+        "Longitud": -101.006977,
+        "Horizontal_Accuracy": 18,
+        "Fecha": 1601262459,
+        "Measures": [
+            {
+                "Fecha": 1601262438,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 41.04,
+                        "pi": 47.92
+                    },
+                    "voc": {
+                        "value": 169,
+                        "pi": 13.52
+                    },
+                    "pm10": {
+                        "value": 18.17,
+                        "pi": 18.17
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152501,
+        "Longitud": -101.007036,
+        "Horizontal_Accuracy": 15,
+        "Fecha": 1601264554,
+        "Measures": [
+            {
+                "Fecha": 1601264539,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2.41,
+                        "pi": 4.83
+                    },
+                    "pm1": {
+                        "value": 1.41,
+                        "pi": 3.53
+                    },
+                    "no2": {
+                        "value": 34.12,
+                        "pi": 38.15
+                    },
+                    "voc": {
+                        "value": 178,
+                        "pi": 14.24
+                    },
+                    "pm10": {
+                        "value": 3.41,
+                        "pi": 3.41
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "ID_Flow": 15766,
+        "Latitud": 22.152509,
+        "Longitud": -101.007022,
+        "Horizontal_Accuracy": 16,
+        "Fecha": 1601267253,
+        "Measures": [
+            {
+                "Fecha": 1601267239,
+                "Contaminantes": {
+                    "pm25": {
+                        "value": 2,
+                        "pi": 4
+                    },
+                    "pm1": {
+                        "value": 1,
+                        "pi": 2.5
+                    },
+                    "no2": {
+                        "value": 14.76,
+                        "pi": 13.88
+                    },
+                    "voc": {
+                        "value": 187,
+                        "pi": 14.96
+                    },
+                    "pm10": {
+                        "value": 3,
+                        "pi": 3
+                    }
+                }
+            }
+        ]
+    }
+]
